@@ -10,9 +10,9 @@ title: freshEHR Clinical Informatics
 email: info@freshehr.com
 description: > # this means to ignore newlines until "baseurl:"
  Open standards based clinical informatics for modern health and care applications
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://freshehrteam.github.io/freshehr-website/" # the base hostname & protocol for your site
-github_username:  freshehr
+baseurl: "/freshehr-website/" # the subpath of your site, e.g. /blog
+url: "https://freshehrteam.github.io/" # the base hostname & protocol for your site
+github_username:  freshehrteam
 
 collections:
   - partners
