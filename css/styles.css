@@ -11307,6 +11307,14 @@ textarea.form-control-lg {
   font-size: 4.5rem;
 }
 
+header.page-masthead {
+  position: relative;
+  background-color: #0e437b;
+  background-size: cover;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
 header.masthead {
   position: relative;
   background-color: #343a40;
