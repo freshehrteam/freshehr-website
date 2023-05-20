@@ -10,7 +10,7 @@ title:  "freshEHR Clinical Informatics - Training"
             <div class="col-xl-6">
                 <div class="text-center text-white">
                     <!-- Page heading-->
-                    <img src="{{ root_url }}/assets/img/icon-lg.png" height="80px"><br><br>
+                    <img src="../assets/img/icon-lg.png" height="80px"><br><br>
                     <h1 class="mb-14">freshEHR Informatics Training</h1><br>
                     
                 </div>
