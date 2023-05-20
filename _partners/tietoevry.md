@@ -1,4 +1,4 @@
 ---
-img: 'assets\img\te-logo.png'
+img: 'assets\img\TE-logo.png'
 alt: TietoEvry
 ---
